@@ -1,2 +1,2 @@
-# Walmart---Rafael-M.-Maraldi
-BDD with Cucumber
+# QA-Walmart
+Rafael Messias Maraldi
