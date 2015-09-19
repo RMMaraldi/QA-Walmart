@@ -1,5 +1,5 @@
 Given(/^I access the Correio's API sending as parameter an invalid CEP$/) do
-	visit 'http://cep.correiocontrol.com.br/00000000.json'
+	visit 'http://cep.correiocontrol.com.br/12345abc.json'
 end
 
 When (/^I don't receive in response the fields: bairro, logradouro, cep, uf and localidade$/) do
