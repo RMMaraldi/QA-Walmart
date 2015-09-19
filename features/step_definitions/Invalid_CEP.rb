@@ -1,4 +1,4 @@
-Given(/^I Access the Correio's API send as parameter an invalid CEP$/) do
+Given(/^I access the Correio's API sending as parameter an invalid CEP$/) do
 	visit 'http://cep.correiocontrol.com.br/00000000.json'
 end
 
